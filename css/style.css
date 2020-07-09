@@ -293,4 +293,8 @@ aside form input, aside form textarea{
 		display: block;
 		padding-bottom: 5px;
 	}
+
+	.showcase h2{
+		font-size: 50px;
+	}
 }
