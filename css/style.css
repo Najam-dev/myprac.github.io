@@ -191,10 +191,6 @@ nav .active:hover{
 	margin-bottom: 20px; 
 }
 
-aside form{
-
-} 
-
 aside form label{
 	display: block;
 	width: 100%;
@@ -285,5 +281,16 @@ aside form input, aside form textarea{
 		width: 100%;
 		text-align: center;
 		margin-bottom: 10px;
+	}
+
+	.footer p{
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 480px){
+	.main-header .navbar li{
+		display: block;
+		padding-bottom: 5px;
 	}
 }
